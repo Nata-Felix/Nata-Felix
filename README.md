@@ -1,6 +1,6 @@
 <h1 align='center'> Olá, meu nome é Natã! 😁✌ </h1>
 
-<h2 align='center'>Analista de banco de dados e estudante em data science! </h2>  
+<h3 align='center'>Analista de banco de dados e estudante em data science! </h3>  
 
 <div align='center' style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
