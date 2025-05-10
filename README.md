@@ -17,7 +17,9 @@
  
 <div align='center'> 
   <a href="https://www.instagram.com/nata.ffelix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nata.analista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:nata.analista@gmail.com?subject=Contato%20via%20portfólio&body=Olá%20Nata%2C%20gostaria%20de%20conversar%20sobre...">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/nata-felix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
