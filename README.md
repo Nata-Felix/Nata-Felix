@@ -56,13 +56,10 @@ e transformo rotinas manuais em ferramentas que outras pessoas conseguem instala
 | Projeto | O que resolve | Tecnologia |
 | --- | --- | --- |
 | [**Zênite**](https://github.com/Nata-Felix/Zenite) | Canvas infinito para orquestrar agentes de IA de terminal, com fluxos visuais e automação. | Electron, TypeScript, React, Node.js |
-| [**Niko**](https://github.com/Nata-Felix/Niko) | Rotina, estudos, finanças e metas num só lugar, cuidados por um time de agentes com personalidade própria. | TypeScript |
 | [**SOLPPE Toolkit**](https://github.com/Nata-Felix/solppe-toolkit) | Central de suporte Windows: utilitários, manutenção, rede, certificados, impressoras e acesso remoto. | C#, WinForms, PowerShell |
-| [**SOLPPE Gestão de Orçamentos**](https://github.com/Nata-Felix/solppe-gestao-orcamento) | Clientes, propostas, dashboard, PDF e envio por WhatsApp num fluxo único. | Next.js, React, SQLite, Docker |
 | [**TEK Toolkit**](https://github.com/Nata-Felix/tek-toolkit) | Implantação, atualização e suporte automatizado do TekFarma, incluindo banco Firebird. | PowerShell, C#, Firebird |
 | [**DBC para Excel/CSV**](https://github.com/Nata-Felix/dbc-to-excel-csv) | Converte arquivos DBC do DATASUS para Excel, CSV e Parquet. | C++ |
 | [**Instalador VC++ Redist**](https://github.com/Nata-Felix/instalador-vs-redist) | Instala os Visual C++ Redistributables x86 e x64 em ordem, com interface gráfica. | C# |
-| [**Tek Backup**](https://github.com/Nata-Felix/tek-backup-exe) | Backups automáticos de bancos FDB e FP em nuvem. | Windows |
 | [**Alura Store**](https://github.com/Nata-Felix/alura-store) | Análise de faturamento, avaliações e frete para uma recomendação de negócio. | Python, Pandas, Plotly |
 
 ## Tecnologias
