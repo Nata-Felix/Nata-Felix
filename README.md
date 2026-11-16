@@ -13,16 +13,16 @@
 
 ## ✦ Projeto em destaque: Zênite
 
-<a href="https://github.com/Nata-Felix/Zenite">
-  <img src="https://raw.githubusercontent.com/Nata-Felix/Zenite/main/docs/images/banner.jpg" alt="Zênite: seus agentes de IA trabalhando juntos, num canvas infinito" width="100%">
+<a href="https://github.com/Nata-Felix/zenite-releases">
+  <img src="https://raw.githubusercontent.com/Nata-Felix/zenite-releases/main/images/banner.jpg" alt="Zênite: seus agentes de IA trabalhando juntos, num canvas infinito" width="100%">
 </a>
 
-**[Zênite](https://github.com/Nata-Felix/Zenite)** é um canvas infinito para Windows onde agentes de IA de terminal
+**[Zênite](https://github.com/Nata-Felix/zenite-releases)** é um canvas infinito para Windows onde agentes de IA de terminal
 (Claude Code, Codex, Antigravity, Grok) trabalham juntos, ao lado das notas, tabelas, sites, arquivos e fluxos
 do projeto. Um agente coordenador, o **Sol**, recebe o pedido, monta a equipe e acompanha o andamento.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nata-Felix/Zenite/main/docs/images/sol-construindo.gif" alt="O Sol recrutando terminais e preenchendo a tabela de bugs" width="80%">
+  <img src="https://raw.githubusercontent.com/Nata-Felix/zenite-releases/main/images/sol-construindo.gif" alt="O Sol recrutando terminais e preenchendo a tabela de bugs" width="80%">
 </p>
 
 - **Orquestração de agentes:** CLI própria (`zn`) para os agentes lerem e escreverem no canvas, conversarem entre si e pedirem atenção.
@@ -55,7 +55,7 @@ e transformo rotinas manuais em ferramentas que outras pessoas conseguem instala
 
 | Projeto | O que resolve | Tecnologia |
 | --- | --- | --- |
-| [**Zênite**](https://github.com/Nata-Felix/Zenite) | Canvas infinito para orquestrar agentes de IA de terminal, com fluxos visuais e automação. | Electron, TypeScript, React, Node.js |
+| [**Zênite**](https://github.com/Nata-Felix/zenite-releases) | Canvas infinito para orquestrar agentes de IA de terminal, com fluxos visuais e automação. | Electron, TypeScript, React, Node.js |
 | [**SOLPPE Toolkit**](https://github.com/Nata-Felix/solppe-toolkit) | Central de suporte Windows: utilitários, manutenção, rede, certificados, impressoras e acesso remoto. | C#, WinForms, PowerShell |
 | [**TEK Toolkit**](https://github.com/Nata-Felix/tek-toolkit) | Implantação, atualização e suporte automatizado do TekFarma, incluindo banco Firebird. | PowerShell, C#, Firebird |
 | [**DBC para Excel/CSV**](https://github.com/Nata-Felix/dbc-to-excel-csv) | Converte arquivos DBC do DATASUS para Excel, CSV e Parquet. | C++ |
